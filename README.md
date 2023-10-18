@@ -1,5 +1,6 @@
 # TiPadrao
-Codes that i use daily at work, it involves routine automatizations with Selenium, PyAutoGui and other Python libraries
+Codes that i use daily at work, it involves routine automatizations with Selenium, PyAutoGui and other Python libraries.
+Códigos que eu uso diariamente no serviço, eles envolvem automatizações com Selenium, PyAutoGui e outras bibliotecas Python.
 
 
 #Registro catraca:
