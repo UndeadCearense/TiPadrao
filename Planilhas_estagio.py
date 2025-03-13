@@ -13,11 +13,11 @@ linkvelho2='cole aqui'
 linkvelho3='cole aqui'
 
 #link do novo cronograma
-linknovo='https://docs.google.com/spreadsheets/d/1q7z5enA-8m3xrlW9PPJESN3pmrW8jqtWZ6xDNB-8H_c'
+linknovo='https://docs.google.com/spreadsheets/d/'
 
 
 #link da URL onde ficam as pastas dos grupos
-linkpastas='https://drive.google.com/drive/u/1/folders/1T74OMq5Gs62xepH-UhwF9q3lxUEZTE0v'
+linkpastas='https://drive.google.com/drive/u/1/folders/'
 
 py.PAUSE = 1
 py.click(x=2066, y=850)
